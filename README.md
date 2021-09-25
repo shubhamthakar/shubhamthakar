@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [A map based inventory management system](https://github.com/shubhamthakar/Inventory-Management)
 
-- 👨‍💻 Checkout [IPL Auction Oculus 2021](https://github.com/shubhamthakar/IPL-Auction2021)
+- 👨‍💻 Checkout [IPL Auction Oculus 2021](https://github.com/shubhamthakar/IPL-Auction-2021)
 
-- 👨‍💻 Checkout [Auto-grader (Using MS Azure OCR)](https://github.com/shubhamthakar/Auto-grader-Using-Azure-OCR-API-)
+- 👨‍💻 Checkout [Auto-grader (Using MS Azure OCR)](https://github.com/shubhamthakar/Auto-Grader-Using-MS-Azure-OCR-)
 
 - 📫 How to reach me **sjthakar27@gmail.com**
 
