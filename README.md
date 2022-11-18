@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamthakar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamthakar" /> </p>
 
-- 🔭 I’m currently working on [A map based inventory management system](https://github.com/shubhamthakar/Inventory-Management)
+- 🔭 I’m currently working on Anomaly Detection in Surveillance Videos
 
 - 👨‍💻 Checkout [IPL Auction Oculus 2021](https://github.com/shubhamthakar/IPL-Auction-2021)
+- 👨‍💻 Checkout [A map based inventory management system](https://github.com/shubhamthakar/Inventory-Management)
 
 - 👨‍💻 Checkout [Auto-grader (Using MS Azure OCR)](https://github.com/shubhamthakar/Auto-Grader-Using-MS-Azure-OCR-)
 
