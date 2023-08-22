@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Thakar</h1>
-<h3 align="center">A Final Year computer science student at Sardar Patel Institute of Technology.</h3>
+<h3 align="center">A Masters in CS student at University of Illinois Urbana Champaign.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamthakar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamthakar" /> </p>
 
