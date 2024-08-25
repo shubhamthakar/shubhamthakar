@@ -1,3 +1,5 @@
+<h1>Last updated: 2022</h1>
+
 <h1 align="center">Hi 👋, I'm Shubham Thakar</h1>
 <h3 align="center">A Masters in CS student at University of Illinois Urbana Champaign.</h3>
 
